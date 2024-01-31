@@ -1,0 +1,14 @@
+C:\projetos\Infertaces\bin\Debug\net8.0\Infertaces.exe
+C:\projetos\Infertaces\bin\Debug\net8.0\Infertaces.deps.json
+C:\projetos\Infertaces\bin\Debug\net8.0\Infertaces.runtimeconfig.json
+C:\projetos\Infertaces\bin\Debug\net8.0\Infertaces.dll
+C:\projetos\Infertaces\bin\Debug\net8.0\Infertaces.pdb
+C:\projetos\Infertaces\obj\Debug\net8.0\Infertaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Infertaces\obj\Debug\net8.0\Infertaces.AssemblyInfoInputs.cache
+C:\projetos\Infertaces\obj\Debug\net8.0\Infertaces.AssemblyInfo.cs
+C:\projetos\Infertaces\obj\Debug\net8.0\Infertaces.csproj.CoreCompileInputs.cache
+C:\projetos\Infertaces\obj\Debug\net8.0\Infertaces.dll
+C:\projetos\Infertaces\obj\Debug\net8.0\refint\Infertaces.dll
+C:\projetos\Infertaces\obj\Debug\net8.0\Infertaces.pdb
+C:\projetos\Infertaces\obj\Debug\net8.0\Infertaces.genruntimeconfig.cache
+C:\projetos\Infertaces\obj\Debug\net8.0\ref\Infertaces.dll
